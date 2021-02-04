@@ -1,0 +1,32 @@
+
+
+h1 {
+	color: red;
+	border: 3px dotted red ;
+    padding: 10px;
+	text-align: center;
+	 background-color: yellow;
+	
+}
+.t1 {
+	color: green;
+	text-align: center;
+	background-color: pink;
+	padding: 10px;
+}
+.mainpart {
+	background-color: blue;
+	color: yellow;
+	text-align: center;
+	padding: 10px;
+	}
+	.footpart {
+	border: 3px double grey;	
+	text-align: center;
+	color: brown;
+	padding: 10px;
+}
+ body {
+	 background-color: #fc3;
+	border: 3px double grey;	
+ }
